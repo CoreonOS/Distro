@@ -1,0 +1,12 @@
+mount boot.img mnt
+
+extlinux -i mnt
+
+umount mnt
+
+
+
+#IN BOOT
+/bzImage rw root=/dev/sda
+
+

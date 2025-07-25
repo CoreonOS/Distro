@@ -1,0 +1,10 @@
+
+
+*.img
+*.o
+*.bin
+
+build/
+
+.env
+
