@@ -1,0 +1,2 @@
+nano 1.0 nano.pkg
+vim 2.5 vim.pkg
